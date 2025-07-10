@@ -35,10 +35,10 @@ Sou desenvolvedor Web e Mobile, atualmente estudando Node.js e desenvolvimento F
 
 ### 📫 Como me encontrar
 - GitHub: [HZetaVirus](https://github.com/HZetaVirus)
-- *(adicione LinkedIn ou outros canais se quiser)*
+- Linkedin: [Jeferson Ribeiro](https://www.linkedin.com/in/jeferson-ribeiro-hosken-dos-santos-8ab384217/)
 
 ### ⚡ Curiosidade
-Sou fascinado por segurança digital e adoro explorar sistemas pra entender como funcionam — sempre de forma ética e consciente 😄
+Sou fascinado por segurança digital 😄.
 
 <!--
 Você pode adicionar um banner no topo do seu perfil (como imagem de capa), colocar os repositórios públicos em destaque e ir atualizando esse README conforme for ganhando experiência, projetos ou certificações.
