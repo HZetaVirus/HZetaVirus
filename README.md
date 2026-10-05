@@ -50,16 +50,16 @@ $ cat now_learning.txt
 ## 📊 `stats --github`
 
 <div align="center">
+  <img src="./assets/terminal.svg" alt="terminal" width="760" />
+</div>
+
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HZetaVirus&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZetaVirus&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HZetaVirus&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HZetaVirus&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </div>
 
 ---
